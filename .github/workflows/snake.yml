@@ -20,8 +20,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
-
+            dist/github-contribution-grid-snake.gif?color_background=%230d1117&color_snake=%23a78bfa&color_dots=%23161b22,%2324143a,%233b1c5a,%235b2a9d,%238b5cf6
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
