@@ -115,14 +115,6 @@ Another idea that starts with "Wouldn't it be cool if..." and ends up becoming a
 
 </div>
 
-## `> activity.log`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Homis1de&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&hide_border=true" />
-
-</div>
-
 ## `> contribution_snake`
 
 <div align="center">
