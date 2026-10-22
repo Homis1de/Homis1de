@@ -3,14 +3,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:1E1B4B,100:7C3AED&height=220&section=header&text=HOMIS1DE&fontSize=60&fontColor=F8FAFC&fontAlignY=35&desc=I%20MAKE%20THINGS%20I%20FIND%20COOL&descAlignY=56&descSize=15&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=I+make+things+I+find+cool.;Sometimes+useful.+Sometimes+just+for+fun.;Game+dev+%7C+Web+dev+%7C+Developer+tools.;Turning+ideas+into+working+projects." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=I+make+things+I+find+cool.;Sometimes+useful.+Sometimes+just+for+fun.;Game+Dev+%7C+Web+Dev+%7C+Developer+Tools.;Turning+ideas+into+working+projects." alt="Animated introduction" />
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=homicide&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Homis1de&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" />
 &nbsp;
-<a href="https://github.com/homicide">
-<img src="https://img.shields.io/badge/GitHub-homicide-181717?style=flat-square&logo=github" />
+<a href="https://github.com/Homis1de">
+<img src="https://img.shields.io/badge/GitHub-Homis1de-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-A78BFA?style=flat-square" />
 
@@ -76,7 +76,7 @@ A desktop utility aimed at making laptop controls and common actions faster and 
 
 <h3>🌐 IdealIn</h3>
 
-A college networking platform concept for discovering people, finding teammates, and collaborating on projects and hackathons.
+A college networking platform for discovering people, finding teammates, and collaborating on projects and hackathons.
 
 <img src="https://img.shields.io/badge/WEB-APP-7C3AED?style=flat-square" />
 
@@ -105,13 +105,13 @@ Another idea that starts with "Wouldn't it be cool if..." and ends up becoming a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=homicide&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Homis1de&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=homicide&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homis1de&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=homicide&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
+<img height="165" src="https://streak-stats.demolab.com?user=Homis1de&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" />
 
 </div>
 
@@ -119,7 +119,7 @@ Another idea that starts with "Wouldn't it be cool if..." and ends up becoming a
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=homicide&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Homis1de&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=a78bfa&area=true&hide_border=true" />
 
 </div>
 
@@ -127,7 +127,7 @@ Another idea that starts with "Wouldn't it be cool if..." and ends up becoming a
 
 <div align="center">
 
-<img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/homicide/homicide/output/github-contribution-grid-snake-dark.svg" />
+<img alt="Animated GitHub contribution snake" width="100%" src="https://raw.githubusercontent.com/Homis1de/Homis1de/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
