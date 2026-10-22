@@ -115,15 +115,19 @@ Another idea that starts with "Wouldn't it be cool if..." and ends up becoming a
 
 </div>
 
+
 ## `> contribution_snake`
 
 <div align="center">
-  <img
-    width="100%"
-    alt="Animated GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Homis1de/Homis1de/output/github-contribution-grid-snake.gif"
-  />
+
+<img
+  alt="Animated GitHub contribution snake"
+  width="100%"
+  src="https://raw.githubusercontent.com/Homis1de/Homis1de/output/github-contribution-grid-snake-dark.svg"
+/>
+
 </div>
+
 
 ---
 
